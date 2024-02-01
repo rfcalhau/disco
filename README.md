@@ -1,2 +1,2 @@
-# disco
-Disc-O: Disposition and Capability Ontology
+# Disc-O
+Disposition and Capability Ontology
